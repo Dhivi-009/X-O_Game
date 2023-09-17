@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/X-O_Game/static/css/main.4f6fbc2a.css",
+    "main.js": "/X-O_Game/static/js/main.05b1d834.js",
+    "static/media/won_bg.png": "/X-O_Game/static/media/won_bg.d809bff77903d1caf666.png",
+    "index.html": "/X-O_Game/index.html",
+    "main.4f6fbc2a.css.map": "/X-O_Game/static/css/main.4f6fbc2a.css.map",
+    "main.05b1d834.js.map": "/X-O_Game/static/js/main.05b1d834.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f6fbc2a.css",
+    "static/js/main.05b1d834.js"
+  ]
+}
